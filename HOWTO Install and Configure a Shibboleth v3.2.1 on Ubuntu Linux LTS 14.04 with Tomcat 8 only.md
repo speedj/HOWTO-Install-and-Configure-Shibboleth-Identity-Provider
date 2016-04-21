@@ -65,7 +65,7 @@
     CATALINA_HOME=/opt/tomcat
     ```
 
-6. Applied changes:
+6. Apply changes:
   * ```source /etc/environment```
 
 7. Verify the changes applied:
